@@ -80,9 +80,9 @@
 
 ### 🤝 Contact
 
-- 💼 <a href = {'linkedin.com/in/ezzat-abo-hanem-455a1b353'}>LinkedIn</a>
-- 🌐 Portfolio: (optional)
-- 📧 Email: (optional)
+- 💼 <a href = {linkedin.com/in/ezzat-abo-hanem-455a1b353}>LinkedIn</a>
+- 🌐 Portfolio: (Not Yet)
+- 📧 <a href = {ezzatabohanem9@gmail.com}>Email</a>
 
 ---
 
