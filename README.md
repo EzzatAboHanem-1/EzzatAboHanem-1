@@ -80,6 +80,7 @@
   📧 Email: <a href="mailto:ezzatabohanem9@gmail.com">ezzatabohanem9@gmail.com</a>
 </p>
 
+
 <p align="left">
   🌐 Portfolio: Coming Soon
 </p>
