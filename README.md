@@ -78,11 +78,21 @@
 
 ---
 
-### 🤝 Contact
+### 🤝 Contact Me
 
-- 💼 <a href = "linkedin.com/in/ezzat-abo-hanem-455a1b353">LinkedIn</a>
-- 🌐 Portfolio: (Not Yet)
-- 📧 <a href = "ezzatabohanem9@gmail.com">Email</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ezzat-abo-hanem-455a1b353/" target="_blank">
+    🔗 LinkedIn
+  </a>
+</p>
+
+<p align="left">
+  📧 Email: <a href="mailto:ezzatabohanem9@gmail.com">My Email</a>
+</p>
+
+<p align="left">
+  🌐 Portfolio: Coming Soon
+</p>
 
 ---
 
