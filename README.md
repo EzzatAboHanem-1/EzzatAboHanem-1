@@ -77,7 +77,7 @@
 </p>
 
 <p align="left">
-  📧 Email: <a href="mailto:ezzatabohanem9@gmail.com">My Email</a>
+  📧 Email: <a href="mailto:ezzatabohanem9@gmail.com">ezzatabohanem9@gmail.com</a>
 </p>
 
 <p align="left">
