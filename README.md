@@ -80,7 +80,7 @@
 
 ### 🤝 Contact
 
-- 💼 LinkedIn: (add later)
+- 💼 <link src = {'linkedin.com/in/ezzat-abo-hanem-455a1b353'}>LinkedIn</link>
 - 🌐 Portfolio: (optional)
 - 📧 Email: (optional)
 
