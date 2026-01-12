@@ -81,9 +81,7 @@
 ### 🤝 Contact Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ezzat-abo-hanem-455a1b353/" target="_blank">
-    🔗 LinkedIn
-  </a>
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/ezzat-abo-hanem-455a1b353/" target="_blank">LinkedIn</a>
 </p>
 
 <p align="left">
