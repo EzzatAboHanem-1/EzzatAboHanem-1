@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ezzat Abouhanam</h1>
-<h3 align="center">Frontend React Developer</h3>
+<h3 align="center">Frontend Developer | React & Next.js</h3>
 
 <p align="center">
-  I build modern, responsive, and high-performance web applications using React.
+  I’m a Front-End Developer focused on building fast, scalable, and user-friendly web applications using React and Next.js.
 </p>
 
 ---
@@ -10,26 +10,31 @@
 ### 👨‍💻 About Me
 
 - 🎓 Computer Science Student (4th Year)
-- 💻 Front-End Developer specialized in **React.js**
-- 🚀 Focused on building real-world projects (Dashboards, Clones, E-commerce)
+- 💻 Front-End Developer
+- ⚛️ Specialized in **React.js & Next.js**
+- 🧠 Strong understanding of UI, state management, and component-based architecture
 - 📍 Based in Egypt
-- 🌱 Currently improving my skills in **Advanced React & Next.js**
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Skills & Technologies
 
-#### Front-End
+#### Core Technologies
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
 </p>
 
-#### Styling & UI
+#### Frameworks & Libraries
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
+</p>
+
+#### Styling
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/>
@@ -47,38 +52,38 @@
 ### 📌 Featured Projects
 
 - 🎬 **Netflix Clone**
-  - React.js + API Integration
-  - Authentication & Dynamic UI
-  - Realistic user experience
+  - Built with React.js
+  - API integration & dynamic routing
+  - Realistic UI and user experience
 
 - 🛒 **E-commerce Frontend**
-  - Product listing & cart system
-  - State management with Redux
-  - Responsive design
+  - Cart & product management
+  - Redux for global state
+  - Fully responsive design
 
-- 📊 **Dashboard Application**
-  - Reusable components
-  - Clean UI & UX
-  - Scalable project structure
+- 🌐 **Next.js Website**
+  - Server-side rendering (SSR)
+  - Optimized performance
+  - Clean and scalable structure
 
-👉 Check my repositories to see more projects.
+👉 Check my repositories to see the code.
 
 ---
 
 ### 📊 GitHub Stats
 
-![Ezzat's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-### 🤝 Connect With Me
-
-- 💼 LinkedIn: *(ضيفه هنا لما تحب)*
-- 🌐 Portfolio: *(لو عندك أو هتعمله)*
-- 📧 Email: *(اختياري)*
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-⭐ If you like my work, feel free to star my repositories!
+### 🤝 Contact
+
+- 💼 LinkedIn: (add later)
+- 🌐 Portfolio: (optional)
+- 📧 Email: (optional)
+
+---
+
+⭐ Feel free to explore my repositories and star the ones you like!
